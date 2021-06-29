@@ -562,9 +562,10 @@ header h1 {
 }
 
 .contact-details h3 {
-    font-size: 24px;
+    font-size: 28px;
     margin-top: 5px;
     margin-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .contact-details .fas, .contact-details .far {
