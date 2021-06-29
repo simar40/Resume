@@ -587,6 +587,11 @@ header h1 {
     text-decoration:none;
 }
 
+p#phone-text {
+    display: inline;
+    margin-left: 10px;
+}
+
 @media (max-width : 480px), (max-width : 768px) {
     .contact-info {
         text-align: center;
